@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/flappy-bird-hit-sound-101soundboards.mp3-a922ca54c726a170ad2dfd5e422f6a67.mp3str"
+
+[deps]
+
+source_file="res://sounds/flappy-bird-hit-sound-101soundboards.mp3"
+dest_files=[ "res://.import/flappy-bird-hit-sound-101soundboards.mp3-a922ca54c726a170ad2dfd5e422f6a67.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
