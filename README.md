@@ -12,7 +12,7 @@ Adicione aqui um GIF ou imagem do jogo em ação!
 
 
 ## 🛠️ Tecnologias  
-- **Godot Engine** (versão utilizada: 3.5 ou a que você usou)  
+- **Godot Engine** (versão utilizada: 3.5.3 mono)  
 - **C#**
   
 
