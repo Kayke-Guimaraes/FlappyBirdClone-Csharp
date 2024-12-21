@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sfx_wing.mp3-a58588bfba0aab79e71357e2bd363d43.mp3str"
+
+[deps]
+
+source_file="res://sounds/sfx_wing.mp3"
+dest_files=[ "res://.import/sfx_wing.mp3-a58588bfba0aab79e71357e2bd363d43.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

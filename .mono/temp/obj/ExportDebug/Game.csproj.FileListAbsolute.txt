@@ -1,0 +1,9 @@
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\bin\ExportDebug\Game.dll
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\bin\ExportDebug\Game.pdb
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.dll
+C:\Users\Pichau\Documents\Jogos no godot 3.5 with C#\Game\.mono\temp\obj\ExportDebug\Game.pdb

@@ -1,0 +1,4 @@
+#Wed Oct 11 00:03:33 BRT 2023
+base.0=C\:\\Users\\Pichau\\Documents\\Jogos no godot 3.5 with C\#\\Game\\android\\build\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
