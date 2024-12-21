@@ -3,7 +3,7 @@
 Um clone do famoso jogo Flappy Bird, desenvolvido em **C#** utilizando o **Godot Engine**. Este projeto foi criado **para fins de estudo e aprendizado**, com o objetivo de explorar a lógica de jogos 2D e as funcionalidades do Godot Engine com a linguagem C#.  
 
 ## 🎮 Demonstração  
-Adicione aqui um GIF ou imagem do jogo em ação!
+
 ![image](https://github.com/user-attachments/assets/261060ab-6cad-4fd4-a609-2afcba4996bf)
 
 
